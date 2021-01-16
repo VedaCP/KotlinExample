@@ -4,14 +4,14 @@ package com.example
 /*
 fun main (){
     var number: Int = 14
-    val name = "Ejercicio calse 1 Módulo 4"
+    val name = "Ejercicio clase 1 Módulo 4"
 
     println("El valor del número es: $number y el nombre es: $name")
 }*/
 
 //Ejercicio 2
 
-fun main(){
+/*fun main(){
     var number: Int = 9
     val name= "Veda"
     var char= "VedaC"
@@ -22,10 +22,10 @@ fun main(){
     println(char)
     println(String)
     println("El nombre es $name y las iniciales son $String")
-}
+}*/
 
 //Ejercicio 3
-/*
+
 fun main(){
     var number: Int = 10
     var number2: Int = 33
@@ -41,4 +41,4 @@ fun main(){
     var total: Int = number4/3
     println("El resultado es: $total")
 
-}*/
+}
